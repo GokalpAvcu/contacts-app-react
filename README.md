@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![GOMCAM-20220218_1034190447](https://user-images.githubusercontent.com/72872909/154638842-b649ad70-f423-4d03-9004-655f008bc46b.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
